@@ -51,7 +51,7 @@ It is designed to reduce manual reading effort and improve productivity.
 Clone the repository:
 
 ```bash
-git clone https://github.com/AshishLokapure/AI-Powered-Document-Analysis.git
+git clone https://github.com/harshadlokapure2004-cell/AI-Powered-Document-Analysis.git
 cd AI-Powered-Document-Analysis
 ```
 
@@ -109,7 +109,7 @@ This project is open-source and available under the MIT License.
 
 ## 👤 Author
 
-**Ashish Lokapure**
-AI Engineering Student
+**Harshad Lokapure**
+Computer Science Student
 
 ---
